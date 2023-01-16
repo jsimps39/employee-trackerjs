@@ -1,0 +1,14 @@
+-- Engineering --
+    -- lead engineer--
+    --junior engineer--
+-- sales --
+    --sales lead---
+    ---sales associate --
+    --account executive --
+-- human resources --
+    -- director --
+    --specialist--
+-- Finance --
+    --CFO--
+    --Accountant--
+    --Financial analyst--
