@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jsimps39/employee-trackerjs#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.5"
   }
 }
