@@ -22,12 +22,12 @@ USE employee_db;
     INSERT INTO employee (first_name, last_name, role_id, manager_id)
     VALUES 
     ('Allison', 'Becker', 1, null),
-    ('Trent', ' Arnold', 2, 1),
+    ('Trent', 'Arnold', 2, 1),
     ('Andrew', 'Robertson', 3, null),
     ('Ibrahima', 'Konate', 4, 3),
     ('Joel', 'Matip', 5, 3),
     ('Mo', 'Salah', 6, null),
     ('Luis', 'Diaz', 7, 6),
     ('Darwin', 'Nunez', 8, null),
-    ('Diogo', ' Jota', 9, 10),
+    ('Diogo', 'Jota', 9, 10),
     ('Jordan', 'Henderson', 10, 10);
